@@ -24,7 +24,8 @@ different city types over a period of 4 months.
    Till 3rd week of February, the cumulative fare reached uptil $2500 and in March it kept on fluctuating.
 7. For Rural cities, the ride fare was almost stable between 0 to $400 and only during start of April it reached to $500. 
 8. For Suburban cities, the cumulative ride fare was between  $750 to $1400. The fares were on the higher side during the first 8 weeks of 2019.   
-![](./Resources/TotalFareByCityType.PNG.PNG)
+
+![](./Resources/TotalFareByCityType.PNG)
 
 
 ## Summary
