@@ -17,4 +17,5 @@ different city types over a period of 4 months.
    It can be assumed that as Rural city type has less number of rides, the average fare per ride is more. 
 5. Same thing can be said about average fare per driver is least in Urban cities because total rides are more. 
    Average fare per driver in Rural cty is almost 3 times than Urban city. 
-   ![](./Resources/DATA.PNG)
+
+![](./Resources/Data.PNG)
